@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_account"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/nav_review"
+        android:icon="@drawable/baseline_review"
+        android:title="Review" />
+
+    <item
+        android:id="@+id/nav_progress"
+        android:icon="@drawable/baseline_progress"
+        android:title="Progress" />
+
+    <item
+        android:id="@+id/nav_workout"
+        android:icon="@drawable/baseline_backup_table_24"
+        android:title="Workout" />
+
+    <item
+        android:id="@+id/nav_exercise"
+        android:icon="@drawable/baseline_sports_gymnastics"
+        android:title="Exercise" />
+
+</menu>
